@@ -1,4 +1,4 @@
-# Epicodus Week 2 Day 3 Mad Libs Looping Project
+# Epicodus Week 3 Day 1 Mad Libs Looping Project
 
 ## Author
 
@@ -17,7 +17,7 @@ Mad Libs Loop
 
 Refactor Mad Libs Website to use looping
 
-## Technologye Used
+## Technology Used
 
 HTML, CSS, Javascript, jQuery
 
